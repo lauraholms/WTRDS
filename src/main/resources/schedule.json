@@ -1,0 +1,20 @@
+[
+  {
+    "zone": "Front Lawn",
+    "startTime": "06:00",
+    "duration": 20,
+    "enabled": true
+  },
+  {
+    "zone": "Garden",
+    "startTime": "19:00",
+    "duration": 15,
+    "enabled": true
+  },
+  {
+    "zone": "Backyard",
+    "startTime": "20:30",
+    "duration": 10,
+    "enabled": false
+  }
+]
